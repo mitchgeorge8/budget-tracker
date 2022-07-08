@@ -35,7 +35,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Installation
 
-1. Navigate to the Heroku website [here]().
+1. Navigate to the Heroku website [here](https://young-retreat-53251.herokuapp.com/).
 2. In the browser, click the button in the address bar that says "Install Budget Tracker".
 3. That's it!
 
